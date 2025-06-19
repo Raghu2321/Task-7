@@ -12,6 +12,7 @@ SQLite3 – built-in Python SQL engine
 Pandas – for handling dataframes
 Matplotlib – for plotting charts
 Google Colab – for executing everything in the cloud
+
 💾 Dataset Details
 The sales data simulates transactions from a fictional store with the following schema:
 
@@ -28,13 +29,13 @@ price (per unit)
 --
 
 🧪 Sample Data used for task
-Product	Quantity	Price
-Smartwatch	2	5000
-Headphones	3	3000
-Hoodie	5	1200
-Sneakers	4	2500
-Smartwatch	1	5000
-Hoodie	2	1200
+Product Quantity Price
+Smartwatch	2	   5000
+Headphones	3	   3000
+Hoodie	    5	   1200
+Sneakers	  4	   2500
+Smartwatch	1	   5000
+Hoodie	    2	   1200
 --
 
 📊 Chart Highlights:
@@ -60,9 +61,9 @@ This project demonstrates how to integrate SQL with Python to perform basic data
 
 The key takeaways from this task include:
 
-Creating and querying a SQLite database using Python
-Writing SQL queries to aggregate data
-Loading SQL results into Pandas for further analysis
-Plotting insights using Matplotlib and Seaborn
-Presenting business insights clearly and visually
+*Creating and querying a SQLite database using Python
+*Writing SQL queries to aggregate data
+*Loading SQL results into Pandas for further analysis
+*Plotting insights using Matplotlib and Seaborn
+*Presenting business insights clearly and visually
 This project showcases my ability to blend SQL, Python, and data visualization — core skills required for any entry-level data analyst role.
